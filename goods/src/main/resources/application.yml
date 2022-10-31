@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: goods-api
+    cloud:
+        nacos:
+            discovery:
+                server-addr: "localhost:8848"
